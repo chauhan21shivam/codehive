@@ -2,9 +2,16 @@ import React, { useState, useCallback } from "react";
 import Navbar from "./Components/Navbar";
 import Editor from "./Components/Editor";
 import Result from "./Components/Result";
+
 import { javascript } from "@codemirror/lang-javascript";
 import { html } from "@codemirror/lang-html";
 import { css } from "@codemirror/lang-css";
+
+/*
+npm i @codemirror/lang-html
+npm i @codemirror/lang-css
+npm i @codemirror/lang-javascript
+*/
 
 const App = () => {
   //* create three usestate
@@ -26,13 +33,15 @@ const App = () => {
   const onChangeJavaScript = useCallback(value => {
     setJs_Edit(value);
   }, []);
+
   //* Create Html Document
   const srcCode = `
   <html>
       <body>${html_edit}</body>
       <style>${css_edit}</style>
       <script>${js_edit}</script>
-<html /> `;
+  <html /> `;
+
   return (
     <>
       {/* Navbar  */}
