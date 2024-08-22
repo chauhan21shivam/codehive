@@ -114,9 +114,11 @@ Live Preview: The preview pane will automatically update to reflect your changes
 Explore: Experiment with different code snippets and see the immediate results.
 
 ## Contributing
-
 Contributions are welcome! If you have suggestions for improving this project or would like to report an issue, please open an issue or submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+**Your Name - [Shivam Chauhan](https://www.linkedin.com/in/chauhan21shivam)**
