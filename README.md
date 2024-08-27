@@ -30,7 +30,7 @@
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/yourusername/code-hive.git
+   git clone https://github.com/Shivamchauhan21/code-hive.git
 ```
 
 2. Navigate to the project directory:
@@ -86,8 +86,6 @@ The build will be output to the build directory.
 ## Project Structure
 
 ```
-plaintext
-Copy code
 code-hive/
 │
 ├── public/
