@@ -121,4 +121,4 @@ Contributions are welcome! If you have suggestions for improving this project or
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-**Your Name - [Shivam Chauhan](https://www.linkedin.com/in/chauhan21shivam)**
+**[Shivam Chauhan](https://www.linkedin.com/in/chauhan21shivam)**
