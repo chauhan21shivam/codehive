@@ -1,7 +1,7 @@
 # Code Hive
 
 **Code Hive** is a web-based code editor that allows users to write and preview HTML, CSS, and JavaScript in real-time. The platform provides an intuitive interface for web developers and learners to test and visualize their code snippets in a streamlined environment.
-[Check Out the Live Version](https://roaring-malabi-659833.netlify.app/)
+[Check Out the Live Version](https://code-hive-app.netlify.app)
 
 
 ## Features
